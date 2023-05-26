@@ -21,7 +21,7 @@ body {
     width: 400px
 }
 
-.first-div p,h1{
+.first-div p{
     margin: 0;
 }
 .second-div {
@@ -31,7 +31,9 @@ body {
     width: 400px;
     background-color:green;
     justify-content: center;
-    align-items:center
+    align-items:center;
+    background
+
 }
 
 
